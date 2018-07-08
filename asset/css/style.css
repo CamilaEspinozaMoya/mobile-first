@@ -1,0 +1,26 @@
+h3 {
+  text-align: center;
+  padding-top: 3em;
+}
+
+.card {
+  padding: 2px
+}
+
+.container-fluid {
+  background-color: #FF6A57;
+  color: white;
+}
+
+.btn {
+  background-color: antiquewhite;
+  color: black;
+}
+
+.iconos {
+  text-align: center;
+}
+
+i {
+  padding: 1em;
+}
